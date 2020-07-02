@@ -1,6 +1,8 @@
 # include <stdio.h>
 
-int sum(int ,int );//sum function
+
+int sum(int v1,int v2);// 두 정수의 합을 구하는 정수
+
 
 int main(int argc, char* argv[]){
 
