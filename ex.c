@@ -1,6 +1,6 @@
 # include <stdio.h>
 
-int sum(int v1,int v2);
+int sum(int ,int );//sum function
 
 int main(int argc, char* argv[]){
 
